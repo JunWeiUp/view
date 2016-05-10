@@ -1,3 +1,4 @@
+来自 [https://github.com/JunWeiUp/view](https://github.com/JunWeiUp/view)
 #前言
      view的滑动是Android自定义控件的基础内容，我们在开发过程中难免会遇到view的滑动问题，
     实现view的滑动有很多种方式，给大家讲几个基本的滑动方法
@@ -74,5 +75,6 @@ scollTo(x,y)表示移动到某个具体的坐标点，而scollBy(dx,dy)则表示
 
 
 参考自：
-http://blog.csdn.net/itachi85/article/details/50724558
-http://www.linuxidc.com/Linux/2015-11/125390.htm
+
+- http://blog.csdn.net/itachi85/article/details/50724558
+- http://www.linuxidc.com/Linux/2015-11/125390.htm
